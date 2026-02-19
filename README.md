@@ -1,12 +1,38 @@
 # IPL-Dashboard-analysis
 
 The objective of this project is to analyze Indian Premier League (IPL) match data (2008-2018 by creating an interactive Excel dashboard using Pivot Tables, Slicers, and Data Visualization techniques. It aims to extract key insights into team performance, player achievements, toss impact, and venue trends, enhancing data-driven decision-making. This project also demonstrates business intelligence concepts, improving data analytics, visualization, and dashboard creation skills for real-world applications in sports analytics and business intelligence.
-Dataset Used
-- Dataset
 
-- Winner List Data
 
-- YouTube Tutorial Reference
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
+- Data Cleaning
+- Dashboard Creation
+
+## Dashboard Preview
+![Dashboard](DashboardIMAGE.png)
+
+## Key Insights
+- Identified top-performing products
+- Analyzed monthly sales trends
+- Compared regional performance
+- Created interactive dashboard
+
+## Files Included
+- Sales-Data.xlsx → Raw dataset and analysis
+- Dashboard.png → Dashboard preview
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Dashboard Creation
+- Business Insights
+
+## Author
+Satakshi Rawat
+
 
 Questions (KPI's)
 Total matches won by each team
