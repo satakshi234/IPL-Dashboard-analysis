@@ -20,6 +20,18 @@ The objective of this project is to analyze Indian Premier League (IPL) match da
 - Compared regional performance
 - Created interactive dashboard
 
+Questions (KPI's)
+Total matches won by each team
+
+Win percentage when batting first vs. chasing
+
+Top 10 Man of the Match (MOM) award winners
+
+Impact of toss decisions on match outcomes
+
+Venue-wise win percentage
+
+
 ## Files Included
 - Sales-Data.xlsx → Raw dataset and analysis
 - Dashboard.png → Dashboard preview
@@ -34,16 +46,6 @@ The objective of this project is to analyze Indian Premier League (IPL) match da
 Satakshi Rawat
 
 
-Questions (KPI's)
-Total matches won by each team
-
-Win percentage when batting first vs. chasing
-
-Top 10 Man of the Match (MOM) award winners
-
-Impact of toss decisions on match outcomes
-
-Venue-wise win percentage
 
 Future Improvements
 • Integrate Power BI for enhanced interactivity and real-time data connections.
