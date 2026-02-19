@@ -18,3 +18,12 @@ Top 10 Man of the Match (MOM) award winners
 Impact of toss decisions on match outcomes
 
 Venue-wise win percentage
+
+Future Improvements
+• Integrate Power BI for enhanced interactivity and real-time data connections.
+
+• Apply SQL to query and manipulate large datasets efficiently.
+
+• Use Python for Data Analysis to perform deeper statistical analysis.
+
+This project marks the beginning of my data analytics journey, and I am excited to learn and grow in this field!
