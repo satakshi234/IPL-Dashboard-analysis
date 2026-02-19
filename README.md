@@ -12,7 +12,7 @@ The objective of this project is to analyze Indian Premier League (IPL) match da
 - Dashboard Creation
 
 ## Dashboard Preview
-![Dashboard](DashboardIMAGE.png)
+![Dashboard](IPL-DashboardIMAGE.png)
 
 ## Key Insights
 - Identified top-performing products
