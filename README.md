@@ -14,6 +14,12 @@ The objective of this project is to analyze Indian Premier League (IPL) match da
 ## Dashboard Preview
 ![Dashboard](IPL-DashboardIMAGE.png)
 
+
+## Dashboard Preview
+
+[![Dashboard](Dashboard.png)](IPL-DashboardIMAGE.png)
+
+
 ## Key Insights
 - Identified top-performing products
 - Analyzed monthly sales trends
